@@ -1,0 +1,11 @@
+*
+!/**/
+!*.*
+*.dSYM
+
+.DS_Store
+
+.venv
+venv
+
+.ipynb_checkpoints
